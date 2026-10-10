@@ -1,0 +1,19 @@
+# SPDX-FileCopyrightText: NONE
+#
+# SPDX-License-Identifier: CC0-1.0
+
+version = 1
+
+[[annotations]]
+path = [
+     "REUSE.toml",
+     "README.md",
+     "flake.nix",
+     "0.13.0.nix",
+     # Uncommentable files
+     ".gitignore",
+     # Computer-generated files.
+     "flake.lock",
+]
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "CC0-1.0"
